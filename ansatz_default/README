@@ -1,0 +1,1 @@
+Here, we test the Efficient SU2 ansatz available within qiskit for the VQE estimation of the ground state energy of the 3-site patch.  
