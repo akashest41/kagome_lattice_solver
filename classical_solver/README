@@ -1,1 +1,3 @@
 Python modules for classical estimation of the ground state energy and the Anderson-derived lower bound for any input Kagome lattice cluster
+
+See PDF for an explanation of how any Kagome cluster is provided as input and for the lower bound estimation procedure
