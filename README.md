@@ -1,6 +1,6 @@
 # kagome_lattice_solver
 
-Python modules of classical and VQE-based algorithms for solving the antiferromagnetic Heisenberg model on finite Kagome lattice clusters.
+Python modules of classical and VQE-based algorithms for solving the antiferromagnetic Heisenberg model on finite Kagome lattice clusters using lower bound estimations.
 
 ## Instructions
 
